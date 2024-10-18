@@ -4,6 +4,8 @@ Pull request: https://github.com/codex-team/editor.js/pull/2842
 
 ## Run
 
+Node: v22.4.1
+
 ```
 yarn install
 yarn build
